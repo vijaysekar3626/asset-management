@@ -1,7 +1,11 @@
 
 const Dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <div className="">
+        <div className="sidemenu "></div>
+        <div className="layouot">
+        </div>
+    </div>
   )
 }
 
